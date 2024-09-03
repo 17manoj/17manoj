@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm [Your Name]!</h1>
+<h1 align="center">👋 Hi, I'm Manoj!</h1>
 
 <p align="center">
   <strong>Credit Risk Modeling Expert | 9 Years of Experience in PD, EAD, LGD</strong>
@@ -15,9 +15,9 @@
 
 Hello! I'm a passionate credit risk modeling professional with 9 years of experience specializing in **Probability of Default (PD)**, **Exposure at Default (EAD)**, and **Loss Given Default (LGD)**. My expertise lies in building, validating, and implementing robust credit risk models that meet regulatory requirements and optimize decision-making processes.
 
-- 🎓 **Educational Background**: [Your Degree(s) and University]
-- 💼 **Current Role**: [Your Current Job Title] at [Your Company]
-- 🌍 **Location**: [Your Location]
+- 🎓 **Educational Background**: B. Tech in Computer Science and MBA in finance
+- 💼 **Current Role**:Model Development Lead at Skipton Building Society
+- 🌍 **Location**: Leeds, UK
 
 ### 💼 Professional Experience
 
@@ -27,24 +27,20 @@ Hello! I'm a passionate credit risk modeling professional with 9 years of experi
 - 🔧 **Loss Given Default (LGD)**: Designed and implemented LGD models with a focus on recovery rate estimation and downturn scenarios.
 
 #### Key Achievements
-- 🏆 Successfully led the development of a credit risk model framework that reduced the default rate by X%.
-- 📈 Enhanced model performance by integrating advanced machine learning techniques (e.g., XGBoost, Random Forest).
-- 📝 Published research papers on credit risk modeling and contributed to industry conferences.
+- 🏆 Successfully led the development of a SME IRB model based basel 3.1
+- 📈 Model Monitoring framework using python library Evidently.
+- 📝 Credit Scorecard for credit cards.
 
 ### 💻 Technical Skills
 
-- **Programming Languages**: Python, R, SAS, SQL
-- **Tools**: Excel (Advanced), MATLAB, Tableau, Git
+- **Programming Languages**: Python, Pyspark, SQL
+- **Tools**: Excel (Advanced), Git, AWS 
 - **Machine Learning**: Logistic Regression, Decision Trees, Random Forest, XGBoost
 - **Model Validation**: Backtesting, Stress Testing, Regulatory Compliance (e.g., IFRS 9, Basel III)
 
-### 📚 Recent Projects
 
-- **PD Model Optimization**: Enhanced PD model accuracy by 15% using ensemble techniques.
-- **Automated Reporting System**: Developed an automated reporting system for credit risk metrics, reducing manual effort by 50%.
-- **Stress Testing Framework**: Built a stress testing framework for credit portfolios to evaluate resilience under adverse economic scenarios.
 
-### 🚀 What I'm Working On
+### 🚀 What I'm Passionate about
 
 - 💻 Exploring AI and machine learning applications in credit risk modeling.
 - 📖 Continuous learning in areas of explainable AI (XAI) and model interpretability.
@@ -52,8 +48,8 @@ Hello! I'm a passionate credit risk modeling professional with 9 years of experi
 
 ### 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- 📧 [Email Me](mailto:your.email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/manojbishtfintech/)
+- 📧 [Email Me](mailto:mnjbisht17@gmail.com)
 - 🌐 [Portfolio/Website](https://yourwebsite.com)
 
 ---
