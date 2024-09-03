@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Manoj!</h1>
 
 <p align="center">
-  <strong>Credit Risk Modeling Expert | 9 Years of Experience in PD, EAD, LGD</strong>
+  <strong>Credit Risk Modeling Expert | 9 Years of Experience in credit risk model development - PD, EAD, LGD</strong>
 </p>
 
 <p align="center">
